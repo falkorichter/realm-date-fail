@@ -28,5 +28,5 @@ dependencies {
     androidTestCompile 'com.google.dexmaker:dexmaker-mockito:1.0'
 
 
-    compile 'io.realm:realm-android:0.77.0'
+    compile 'io.realm:realm-android:0.78.0'
 }
